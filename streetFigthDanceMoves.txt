@@ -1,4 +1,5 @@
-To the left
-To the right
-jump up and down
+Move down 
+Move down
+jump up 
+Punch
 tiger up cut
